@@ -1,0 +1,8 @@
+1. Create a query that will return all the columns from 'employees' table.
+2. Create a query that will return employee's id, last name, and their job id.
+3. What are the last names and jobs (codes) of employees?
+4. Create a query that will return employee's last name, their salary and department id, 
+    disaplay the department id in the begining. 
+5. Create a query that will return the department id from 'emplyees' table.
+6. Create a query that will return the department id from 'departments' table.
+7. Create a query that will return the department id and department name from 'departments' table.
